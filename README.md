@@ -2,7 +2,7 @@
 
 <h2>sobre</h2>
 <p>Projeto criado em Curso em Vídeo, nesse projeto foi feito um site responsivo, usando HTML e CSS, para criar uma notícia sobre a história do mascote android. </p>
-<a href = "https://alanalves0.github.io/projeto-android/">Clique aqui para acessar o projeto</a>
+<a href = "https://projeto-android-brown.vercel.app">Clique aqui para acessar o projeto</a>
 <br><br><br>
 ##Tecnologias
 <div>
